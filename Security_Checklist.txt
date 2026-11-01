@@ -1,0 +1,12 @@
+CYBERSECURITY CHECKLIST
+
+[ ] Use strong passwords
+[ ] Enable Multi-Factor Authentication (MFA)
+[ ] Update operating systems regularly
+[ ] Install antivirus software
+[ ] Backup important files
+[ ] Avoid suspicious links and attachments
+[ ] Report suspicious emails
+[ ] Lock devices when unattended
+[ ] Use secure Wi-Fi networks
+[ ] Keep personal information private
